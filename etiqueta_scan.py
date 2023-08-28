@@ -12,7 +12,7 @@ cap.set(4, 740)
 
 def procesar_palabras(texto):
     palabras = texto.split()  # Dividir el texto en palabras
-    print(palabras)
+    #print(palabras)
     resultados = []
 
     i = 0
